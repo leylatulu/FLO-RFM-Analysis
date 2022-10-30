@@ -3,6 +3,9 @@
 
 ... will be added ...
 
+## Data Set Story
+The dataset consists of the information obtained from the past shopping behaviors of customers who made their last purchases from Flo as OmniChannel (both online and offline shoppers) in the years 2020-2021.
+
 ## Description of features
 |**FEATURE**|**DESCRIPTION**|
 |---|---|
